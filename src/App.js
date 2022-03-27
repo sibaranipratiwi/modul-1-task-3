@@ -17,6 +17,9 @@ function App() {
         >
           Learn React
         </a>
+        <p>
+          This is just for testing in doing commit.
+        </p>
       </header>
     </div>
   );
