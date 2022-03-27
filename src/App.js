@@ -20,6 +20,9 @@ function App() {
         <p>
           This is just for testing in doing commit.
         </p>
+        <p>
+          This is just for testing in doing commit again.
+        </p>
       </header>
     </div>
   );
